@@ -13,6 +13,13 @@ Made with ❤ by  [jggomez](https://devhack.co).
 [![Linkedin Badge](https://img.shields.io/badge/-jggomezt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jggomezt/)](https://www.linkedin.com/in/jggomezt/)
 [![Medium Badge](https://img.shields.io/badge/-@jggomezt-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jggomezt)](https://medium.com/@jggomezt)
 
+## References
+
+- https://arxiv.org/pdf/1301.3781
+- https://developers.google.com/machine-learning/crash-course/embeddings
+- https://medium.com/@enozeren/word2vec-from-scratch-with-python-1bba88d9f221
+- https://huggingface.co/blog/matryoshka
+
 ## License
 
     Copyright 2025 Juan Guillermo Gómez
